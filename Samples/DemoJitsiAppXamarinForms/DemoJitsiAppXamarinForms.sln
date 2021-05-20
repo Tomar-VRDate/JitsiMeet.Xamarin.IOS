@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoJitsiAppXamarinForms.An
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoJitsiAppXamarinForms.iOS", "DemoJitsiAppXamarinForms\DemoJitsiAppXamarinForms.iOS\DemoJitsiAppXamarinForms.iOS.csproj", "{3426D809-4B77-4575-9D06-5424A21E7142}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoJitsiAppXamarinForms", "DemoJitsiAppXamarinForms\DemoJitsiAppXamarinForms\DemoJitsiAppXamarinForms.csproj", "{114FB89F-1266-4655-8B9C-29E1A3C0C17C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoJitsiAppXamarinForms", "DemoJitsiAppXamarinForms\DemoJitsiAppXamarinForms\DemoJitsiAppXamarinForms.csproj", "{114FB89F-1266-4655-8B9C-29E1A3C0C17C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

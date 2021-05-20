@@ -2,10 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CFBundleDisplayName</key>
-	<string>DemoJitsiApp</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.seesi.DemoJitsiApp</string>
+	<string>it.kubito.hotelalpi</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -76,5 +74,7 @@
 	<string>App requres permission to use microphone</string>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>CFBundleDisplayName</key>
+	<string>Hotel Alpi</string>
 </dict>
 </plist>

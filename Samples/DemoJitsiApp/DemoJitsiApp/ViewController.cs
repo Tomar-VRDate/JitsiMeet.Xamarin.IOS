@@ -20,8 +20,8 @@ namespace DemoJitsiApp
             };
             var options = JitsiMeetConferenceOptions.FromBuilder( builder =>
             {
-                //builder.ServerURL = new NSUrl("meet.jit.si");
-                //builder.Room = "JollyPriestsFragmentGrimly";
+                builder.ServerURL = new NSUrl("meet.jit.si");
+                builder.Room = "SperiamoBene";
                 builder.WelcomePageEnabled = true;
             });
             view.Join(options);
