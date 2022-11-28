@@ -8,6 +8,6 @@ The sample project is a simple Xamarin IOS single page app. I referenced the dll
 A JitsMeetView is created in the ViewController class and added to the view hierrachy. Remember to add the JitsiXamarinBinding namespace.
 All classes binding interfaces are in the JitsiXamarinBinding namespace 
 
-Remeber to follow all prerequisites per the JitsiMeetIOS SDK documentation --https://github.com/jitsi/jitsi-meet/blob/master/ios/README.md
+Remeber to follow all prerequisites per the JitsiMeetIOS SDK documentation --https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-ios-sdk/
 e.g. disable bitcode, add microphone and camera permissions etc.
 
